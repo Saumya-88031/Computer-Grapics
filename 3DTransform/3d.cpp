@@ -1,7 +1,5 @@
 /**
  * Write a menu-driven program to perform 3D transformations.
- *
- * Written by Sudipto Ghosh for the University of Delhi
  */
 
 #define _USE_MATH_DEFINES
