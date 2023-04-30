@@ -1,7 +1,5 @@
 /**
  * Write a program to implement mid-point circle drawing algorithm.
- *
- * Written by Sudipto Ghosh for the University of Delhi
  */
 
 #include <cmath>
