@@ -1,7 +1,5 @@
 /**
- * Write a program to implement Bresenham's line drawing algorithm.
- *
- * Written by Sudipto Ghosh for the University of Delhi
+ * Write a program to implement Bresenham's line drawing algorithm
  */
 
 #include <cmath>
